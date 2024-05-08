@@ -23,6 +23,10 @@ https://github.com/suriyaks0902/Real_Time_2D_Object_Recognition_using_OpenCV/ass
 
 
 
+https://github.com/suriyaks0902/Real_Time_2D_Object_Recognition_using_OpenCV/assets/90970879/ab414def-a740-48d4-ab76-657b178eb8b0
+
+
+
 
 ## Installation
 1. **Prerequisites:**
